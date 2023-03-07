@@ -212,7 +212,7 @@
     <name>neto_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
-      <value>Neto контактное лицо</value>
+      <value>Контактное лицо</value>
     </synonym>
     <type>
       <types>CatalogRef.neto_КонтактныеЛица</types>
