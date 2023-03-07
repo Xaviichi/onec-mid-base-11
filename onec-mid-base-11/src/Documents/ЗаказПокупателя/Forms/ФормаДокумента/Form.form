@@ -208,6 +208,10 @@
         <dataPath xsi:type="form:DataPath">
           <segments>Объект.neto_СогласованнаяСкидка</segments>
         </dataPath>
+        <handlers>
+          <event>OnChange</event>
+          <name>neto_СогласованнаяСкидкаПриИзменении</name>
+        </handlers>
         <extendedTooltip>
           <name>neto_СогласованнаяСкидкаРасширеннаяПодсказка</name>
           <id>171</id>
